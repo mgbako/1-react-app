@@ -1,0 +1,13 @@
+header {
+  background: #9c27b0;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.news_item {
+  padding: 20px;
+  border-bottom: 1px solid #ccc;
+}
